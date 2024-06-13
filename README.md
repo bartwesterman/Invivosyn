@@ -5,7 +5,7 @@ An application example of the R software package invivosyn(1) which can assess t
 
 (1) Mao, B. & Guo, S. Statistical Assessment of Drug Synergy from In Vivo Combination Studies Using  Mouse Tumor Models. Cancer Res. Commun. 3, 2146–2157 (2023).
 
-The script is provided below:
+The script as provided by Mao and Guo is provided below:
 ~~~
 title: "my-vignette"
 output: rmarkdown::html_vignette
