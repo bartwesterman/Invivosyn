@@ -1,9 +1,10 @@
 # Invivosyn (R)
 ## Determine BLISS or HSA synergy from longitudinal, IVIS luminiscent based, in vivo data 
 
-An application example of the R software package invivosyn(1) which can assess the combination index and synergy score using the Bliss independence model as well as the highest single agent (HSA) model. The model does not make any assumption on tumor growth kinetics, study duration, data completeness and balance for tumor volume measurement. The used script is provided. 
+An application example of the R software package invivosyn(1) which can assess the combination index and synergy score using the Bliss independence model as well as the highest single agent (HSA) model. The model does not make any assumption on tumor growth kinetics, study duration, data completeness and balance for tumor volume measurement. The used script is provided as an exemplification for the work related to (2). For other, more general purposes, please use the original script at https://github.com/maobinchen/invivoSyn. 
 
 (1) Mao, B. & Guo, S. Statistical Assessment of Drug Synergy from In Vivo Combination Studies Using  Mouse Tumor Models. Cancer Res. Commun. 3, 2146–2157 (2023).
+(2) Westerman B.A., Broersma Y., Wurdinger T., Noske D., Sminia P., Tannous B., Challenges to determine synergistic drug interactions in mice, Nature Communications (2025)
 
 #### [Example file (CSV)](https://github.com/bartwesterman/Invivosyn/blob/main/syndata1.csv))
 The script as provided by Mao and Guo is provided below:
